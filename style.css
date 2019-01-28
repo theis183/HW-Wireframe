@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background: #777777;
+    width: 960px;
+    font-size: 18px;
+    margin: 40px;
+}
+
+.whiteBackground {
+    background: #ebebeb;
+    color: #777;
+    margin: 10px
+}
+
+section, aside{
+    width: 440px;
+    float: left;
+    margin: 10px;
+    border: 10px solid #777;
+
+}
+
+.grayBackground{
+    background: #777777;
+    color: #ebebeb;
+    width: 400px;
+    margin:0 10px;
+}
+
+footer {
+    clear: left;
+}
